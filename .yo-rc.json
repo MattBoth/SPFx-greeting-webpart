@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "environment": "spo",
+    "framework": "react",
+    "isCreatingSolution": true,
+    "version": "1.23.2",
+    "libraryName": "spfx-greeting-webpart",
+    "libraryId": "5e7ea24d-fccc-4d96-a56c-488564d9c61c",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart",
+    "useGulp": false,
+    "nodeVersion": "22.15.0",
+    "sdkVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    }
+  }
+}

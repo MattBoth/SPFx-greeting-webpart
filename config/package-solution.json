@@ -1,0 +1,42 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-greeting-webpart-client-side-solution",
+    "id": "5aa7d3aa-3543-4051-8e5d-1990577aa330",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "Matt Both",
+      "mpnId": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "websiteUrl": ""
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Displays a personalized greeting for the current SharePoint user."
+      },
+      "longDescription": {
+        "default": "Displays a configurable personalized greeting for the current SharePoint user."
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "Personal Greeting Web Part Feature",
+        "description": "Activates the Personal Greeting web part.",
+        "id": "343240da-eb85-4f92-acb8-7cf0924d890a",
+        "version": "1.0.0.0",
+        "componentIds": [
+          "343240da-eb85-4f92-acb8-7cf0924d890a"
+        ]
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-greeting-webpart.sppkg"
+  }
+}
