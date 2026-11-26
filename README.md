@@ -1,6 +1,6 @@
 # SPFx Personal Greeting Web Part
 
-A SharePoint Framework (SPFx) web part that greets the current user by name, with full control over text styling and how the name is displayed. Inspired by the PnP [react-personal-greeting](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-personal-greeting) sample.
+A SharePoint Framework (SPFx) web part that greets the current user by name, with full control over text styling and how the name is displayed.
 
 ![Personal Greeting web part with property pane](assets/screenshot.png)
 
