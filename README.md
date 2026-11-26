@@ -4,6 +4,10 @@ A SharePoint Framework (SPFx) web part that greets the current user by name, wit
 
 ![Personal Greeting web part with property pane](assets/screenshot.png)
 
+## Demo
+
+![Personal Greeting web part demo](assets/WelcomeWebpart.gif)
+
 ## Features
 
 | Property | Description |
